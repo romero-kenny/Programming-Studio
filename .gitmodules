@@ -1,0 +1,3 @@
+[submodule "ieee-typst-template"]
+	path = ieee-typst-template
+	url = https://github.com/bsp0109/ieee-typst-template
