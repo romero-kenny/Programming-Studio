@@ -1,4 +1,6 @@
 # Programming Studio: How Games Can Better Prepare Software Engineers
+Currently is in a "complete" state, however, there are a few revisions to give it that final 
+polish.
 
 ## Abstract
     The complexity of modern software poses a significant challenge for aspiring 
@@ -21,3 +23,6 @@ https://github.com/romero-kenny/cell_games
 
 ## Accompanying Presentation
 https://docs.google.com/presentation/d/13br-FgYHx9SNXxN9ie4E2rtbuXG0C-aYjSPGbTwb22c/edit?usp=sharing
+
+## Recorded Practice Presentation
+https://youtu.be/1aBRUAb2rCg?si=pMVpyc7l5_qZ8N5H
