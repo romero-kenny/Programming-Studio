@@ -1,6 +1,6 @@
 # Programming Studio: How Games Can Better Prepare Software Engineers
-Currently is in a "complete" state, however, there are a few revisions to give it that final 
-polish.
+Currently is in a "complete" state, however, there are a few revisions still needed 
+to give it that final polish.
 
 ## Abstract
     The complexity of modern software poses a significant challenge for aspiring 
