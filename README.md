@@ -3,20 +3,20 @@ Currently is in a "complete" state, however, there are a few revisions still nee
 to give it that final polish.
 
 ## Abstract
-    The complexity of modern software poses a significant challenge for aspiring 
-    software engineers, as traditional computer science curricula often fall short 
-    in preparing students to effectively navigate large systems. This gap arises 
-    from the reliance on conventional teaching methods rather than engaging activity 
-    or project-based approaches that could better stimulate students' computational 
-    thinking. Games, serve as a medium that naturally cultivates computational
-    thinking, as players grapple with the intricacies of game mechanics while playing. 
-    Drawing inspiration from game design principles, instructors can create playful 
-    learning environments that promote deeper understanding of course content and 
-    foster the development of computational thinking skills. This paper proposes 
-    a course design that leverages game design to establish such a playful environment
-    specifically tailored for enhancing computational thinking, thereby equipping 
-    students with the necessary skills for future coursework and tackling more 
-    complex software projects.
+The complexity of modern software poses a significant challenge for aspiring 
+software engineers, as traditional computer science curricula often fall short 
+in preparing students to effectively navigate large systems. This gap arises 
+from the reliance on conventional teaching methods rather than engaging activity 
+or project-based approaches that could better stimulate students' computational 
+thinking. Games, serve as a medium that naturally cultivates computational
+thinking, as players grapple with the intricacies of game mechanics while playing. 
+Drawing inspiration from game design principles, instructors can create playful 
+learning environments that promote deeper understanding of course content and 
+foster the development of computational thinking skills. This paper proposes 
+a course design that leverages game design to establish such a playful environment
+specifically tailored for enhancing computational thinking, thereby equipping 
+students with the necessary skills for future coursework and tackling more 
+complex software projects.
     
 ## Week 4 Project Example
 https://github.com/romero-kenny/cell_games
